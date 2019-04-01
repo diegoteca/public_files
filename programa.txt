@@ -1,0 +1,229 @@
+Programa Regular
+* Denominación de la asignatura: Metodología y técnicas cuantitativas
+* Carreras a la cual pertenece: Licenciatura en Trabajo Social
+* Ciclo lectivo: 2019 
+* Docentes: Dr. Diego Quartulli (coordinador), Dr. Martín Bageneta y Lic. Sabrina Iacobellis
+* Carga horaria semanal: 4 horas, distribuídas en 2 horas en aulas comunes y 2 horas en aulas informatizadas.
+§1. Introducción
+  La estructura del presente documento es la siguiente. Se comienza con una breve fundamentación de los objetivos específicos (§2.1) de las asignatura resaltando los aportes de estos tanto a los objetivos generales de la carrera y de la propia asignatura (§2). Luego, se detallan los contenidos mínimos (§3) por unidad programática para luego especificar a través de qué bibliografìa (§4) se los abordará.
+Posteriormente se pasa a la sección pedagógica-didáctica (§5) en donde se explicitan una serie de supuestos pedagógicos generales y como ellos se pueden implementar para cumplir los objetivos específicos de la asignatura tanto en actividades didácticas específicas como en el modo de realizar las evaluaciones. En relación con esto último, posteriormente se pasa a una sección en donde se explicita el modo mediante el cual el régimen de evaluación y promoción (§6) se implementa teniendo en cuenta tanto la propuesta pedagógica-didáctica como el reglamento académico de la Universidad. Finalmente el documento cierra con la bibliografía (§7) citada en el documento. El siguiente diagrama sirve para visualizar las relaciones entre las diferentes secciones del documento.
+  
+
+§2. Fundamentación:
+La asignatura tiene su razón de ser, principalmente, en el cumplimiento de los siguientes objetivos de la carrera (OC) que se encuentran explícitamente en la resolución que reglamentó el actual plan de la carrera de Trabajo Social:
+OC1. Ofrecer elementos teórico-metodológicos-instrumentales sólidos para el desarrollo de la profesión.
+OC2. Potenciar una sólida formación en investigación social que permita aportar a los procesos de producción de conocimiento científico en el campo de las ciencias sociales, como parte del quehacer profesional.
+Ambos objetivos se intentan cumplir de forma complementaria con los contenidos de las asignaturas “Introducción al conocimiento científico y metodología de la investigación” (correlativa) y “Metodología y Técnicas de Análisis Cualitativo”.
+Dentro del contexto anterior, esta asignatura, que se inserta formalmente en el tercer año de la carrera de Trabajo Social, se entiende como un espacio curricular que, a su turno, prosigue sus propios objetivos que, sin contradecir los OC, o bien especifican o bien complementan a aquellos.  En este sentido, la asignatura tiene como sus principales objetivos generales (OA) lograr que cada estudiante adquiera, o por lo menos mejore, las competencias necesarias para:
+OA1. Elaborar y utilizar diferentes metodologías y técnicas cuantitativas de manera pertinente a su problema de investigación/aplicación.
+
+
+OA2. Interpretar de modo crítico, principalmente en sus aspectos metodológicos, a) los análisis e inferencias de otras investigaciones y, más en general, b) cualquier afirmación fáctica que se realice sobre el dominio del mundo social.
+
+
+§2.1 Especificación de los Objetivos
+Teniendo como fuente tanto los OC y los OA se detallan los siguientes objetivos específicos de la asignatura que constan de la mejora o obtención de una serie de hábitos, conocimientos y habilidades (especialmente competencias)[1]:
+* OE1 - El hábito de una forma de pensar metódica y sistemática para describir y explicar la realidad social.
+* OE2 - El hábito de una actitud crítica o escéptica acerca del conocimiento científico social actualmente difundido que, en principio, no cumple con el contenido de OE1.
+* OE3 - El conocimiento del lenguaje científico que permita una comprensión mínima, pero integral, del diseño de una investigación social cuantitativa. Sus diferentes tipos y componentes y la pertinencia de cada uno de ellos para la resolución de diferentes tipos de problemas.
+* OE4 - Conocimiento mínimo de la existencia y pertinencia de las técnicas de análisis de datos básicas y una habilidad mínima en la ejecución de las mismas.
+* OE5 - Conocimiento mínimo de la existencia y pertinencia de (otras) técnicas de análisis de datos más específicas y (usualmente) más complejas.
+* OE6 - Conocimiento mínimo sobre los diversos estilos de citas y referencias usuales y competencia en su uso pertinente en la producción científica.
+* OE7 - Competencia en una expresión lingüística adecuada tanto en el formato de la redacción escrita como en las presentaciones orales en público.
+* OE8 - Competencia en la socialización entre pares, especialmente entre aquellos que no existía afinidad al comenzar la cursada de la asignatura.
+§3. Contenidos mínimos:        
+Los contenidos mínimos (CM) de la asignatura se dividen de 4 unidades programáticas. Es un supuesto que cada una de ellas es una distinción artificial de la práctica de una investigación social, aunque, sin embargo, se la considera una aproximación útil que permite: 
+1. Aprovechar la realidad pedagógica que el docente se enfrenta con clases discretas y cronológicamente separadas y complementariamente,
+2. Servir como brújula al estudiante que transita el recorrido de la asignatura.
+§3.1. Unidad 1:  Ciencia, investigación y metodología. El proceso de la investigación social y sus diferentes diseños.
+* Ciencia. Su identificación y distinción como a) conocimiento científico, como b) metodología(s) y c) como sistema de ciencia y técnica.
+* La investigación científica como proceso para contestar preguntas (o resolver problemas) científicos. Generalidades de la investigación científica social y especificidades del enfoque “cuantitativo”.
+* Delimitación temática y selección del marco teórico de una investigación.
+* Explicitación de los (diferentes tipos de) objetivos de una investigación científica y su vinculación con los diferentes tipos de diseño de la misma. En especial, la idoneidad de los diseños que utilizan la estrategia de a) Encuestas, b) Experimentación y c) Observación controlada, para la respectiva maximización de los objetivos de a) representatividad, b) aleatorización y c) realismo.
+* Diseños. Su clasificación según sus unidades de análisis, sus dimensiones temporales, sus propósitos cognoscitivos y sus estrategias. Características y pertinencia de cada uno de ellos.
+Para más información y acceso a los materiales de la unidad puede consultarse:
+https://diegoteca.com.ar/metodocuanti/unidad-1/
+§3.2. Unidad 2:  Conceptuación, Observación y Medición. De la conceptualización teórica hasta las operaciones empíricas. Diseño de los instrumentos de observación/medición.
+* Operaciones teóricas. Tipos de conceptos y la especificidad de los conceptos cuantitativos. El proceso de la conceptualización y la especificidad de la cuantificación. Diferencia entre conceptos, proposiciones, hipótesis y teorías.
+* Operaciones empíricas. Proceso de operacionalización y construcción de instrumentos de observación/medición. Concepto de Indicador. Su selección, validación (conceptual) y/o calibración (empírica). Tipos de variables.
+* Operaciones empíricas para clasificar, ordenar y medir. Diferentes tipos de error. Conceptos de precisión y confiabilidad.
+* Construcción de índices y tipologías. Dimensionalidad y función de los mismos.
+* Tipo de fuentes de datos: primarias y secundarias.
+* Técnicas de recolección de datos:  observación participante - no participante, entrevista, cuestionario, registros administrativos, etc.
+Para más información y acceso a los materiales de la unidad puede consultarse:
+https://diegoteca.com.ar/metodocuanti/unidad-2/
+§3.3. Unidad 3:   Diseño e inferencias posibles. Dime que tipo de diseño has seleccionado y que tipo de cosas has observado o experimentado y te diré qué tipo inferencias puedes hacer.
+* Distinción conceptual entre Universo Teórico, Población Empírica y Muestra.
+* Distinción metodológica entre Unidad de Análisis y de Observación.
+* Recapitulación de las estrategias de las encuestas, experimentos y observaciones controladas. Funciones diferentes del azar en cada una de ellas.
+* Concepto de muestra aleatoria. Conceptos de parámetro poblacional, estimador muestral, exactitud e intervalo de confianza. Errores muestrales y no muestrales.
+* Tipos de muestras aleatorias. Simples, sistemáticas, estratificadas y por conglomerados. Ventajas y desventajas. Cálculo del tamaño de una muestra. 
+* Tipo de muestras no aleatorias. Su pertinencia para poblaciones (o muestras) pequeñas como los estudios de caso(s), diseños experimentales y para poblaciones “invisibles”. Muestras intencionales, por cuotas y bola de nieve.
+Para más información y acceso a los materiales de la unidad puede consultarse:
+https://diegoteca.com.ar/metodocuanti/unidad-3/
+§3.4. Unidad 4:   Análisis de los datos. Construcción de la evidencia y su comunicación.
+* Concepto de Dato, Matriz de datos y Base de datos. Concepto de Evidencia.
+* Análisis univariado. Su confección y su lectura en tablas y gráficos.
+* Segmentación (filtros) y análisis por perfiles y tipologías.
+* Análisis bivariado y multivariado. Construcción y análisis de tablas de contingencia. Conceptos de asociación y regresión.
+* Graficación I. Gráficos de tortas, barras e histogramas.
+* Graficación II. Otros tipos de gráficos para otros tipos de datos. Sociogramas, mapas, nubes de palabras, etc.
+* Presentación y comunicación de los análisis.11
+Para más información y acceso a los materiales de la unidad puede consultarse:
+https://diegoteca.com.ar/metodocuanti/unidad-4/
+§4. Bibliografía específica para cada Unidad Programática:
+§4.1. Unidad 1:
+§4.1.1. Bibliografía obligatoria:
+* Acerca de lo que es y no es investigación en ciencias sociales. Capítulo 8 de La Trastienda de la Investigación Social (Sautu, 2001)
+* La organización de la investigación. Capítulo 3 de Metodología Cuantitativa (Cea D’Ancona M., 2001)  
+* El diseño de la investigación. Capítulo 4 de Fundamentos de la Investigación Social (Babbie E., 2000)
+* Representatividad, aleatoriedad y realismo. Extracto Capítulo 1 de Diseño estadístico para la investigación (Kish L., 1995)
+§4.1.2. Bibliografía de consulta no obligatoria:
+* Similitudes y diferencias entre los enfoques cuantitativo y cualitativo. Capítulo 1 de Metodología de la Investigación (Hernández Sampieri R., 2006)  
+* Planteamiento del problema cuantitativo. Capítulo 3 de Metodología de la Investigación (Hernández Sampieri R., 2006)  
+* Diseños experimentales y cuasiexperimentales en la investigación social (Campbell, D. y Stanley, J. (1966)
+§4.2. Unidad 2:
+§4.2.1. Bibliografía obligatoria: 
+* Conceptualización y Medición. Capítulo 5 de Fundamentos de la Investigación Social (Babbie E., 2000) 
+* Cualidad, cantidad, seudocantidad y medición en ciencias sociales. Extracto Capítulo 4 de La relación entre la sociología y la filosofía (Bunge M., 2000)
+* Operacionalización. Capítulo 6 de Fundamentos de la Investigación Social (Babbie E., 2000) 
+* La operacionalización de conceptos. Capítulo 4 de Metodología Cuantitativa (Cea D´Ancona M., 2001)
+* La investigación mediante encuestas. Capítulo 7 de Metodología Cuantitativa (Cea D´Ancona M., 2001)
+§4.3. Unidad 3:
+§4.3.1. Bibliografía obligatoria:
+* Conceptos de Objeto y de Unidad de Análisis. Población y Muestra. Capítulo 6 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007)  
+* Representatividad y muestreo probabilístico. Extracto Capítulo 1 de Diseño estadístico de la investigación (Kish L., 1995)
+* La selección de las unidades de observación. Capítulo 5 de Metodología Cuantitativa (Cea D’Ancona M., 2001) 
+§4.3.2. Bibliografía de consulta no obligatoria:
+* El diseño de la muestra. Capítulo II. 4 en  en Metodología de la Investigación Social Cuantitativa (López Roldán P. - Fachelli S., 2015)
+§4.4. Unidad 4:
+§4.4.1. Bibliografía obligatoria:
+* Noción y estructura del dato (Abritta G., 1999)  
+* El análisis bivariable. Cap. 15 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007) 
+* El análisis de los datos. Cap. 9 de Metodología Cuantitativa (Cea D’Ancona M., 2001)
+* Análisis descriptivo de datos con una variable. Capítulo III.3 en Metodología de la Investigación Social Cuantitativa (López Roldán P. - Fachelli S., 2015)
+§4.4.2. Bibliografía de consulta no obligatoria:
+
+
+* Fundamentos de estadística inferencial. Capítulo III.4 en Metodología de la Investigación Social Cuantitativa (López Roldán P. - Fachelli S., 2015)
+* Análisis de tablas de contingencia. Capítulo III.6 en Metodología de la Investigación Social Cuantitativa (López Roldán P. - Fachelli S., 2015)
+§5. Propuesta Pedagógico-Didáctica:
+§5.1  Supuestos pedagógicos 
+Como antes se detalló, el programa de la materia consta de una serie de objetivos pedagógicos específicos (OE) que tienen como meta la adquisición y/o mejoramiento de ciertos hábitos, conocimientos y competencias que, a su turno, estas se contextualizan dentro de los objetivos más generales de la materia (OA) y del plan de la carrera de Trabajo Social (OG). En este sentido, vale la siguiente aclaración que permitirá darle una fundamentación más específica a los supuestos pedagógicos (SP) que otorgan racionalidad a los modos particulares a través de los cuales la asignatura intentará conseguir aquellos objetivos.
+El término “Ciencia”, a secas, suele tener los siguientes 3 significados, no necesariamente excluyentes entre sí:
+* C1. La ciencia como producto. Esto es, la ciencia como sistema conceptual, usualmente expresado a través de algún lenguaje y frecuentemente cristalizado en textos y artículos.
+* C2. La ciencia como método. Esto es, como una estrategia general de indagar el mundo y, específicamente, como la manera, en términos de reglas, más usada y/o recomendada de producir conocimiento científico.
+* C3. La ciencia como sistema social concreto. Emparentada con la sociología de la ciencia, esta acepción del significado se basa en los supuestos que el conocimiento científico (C1) no surge en un vacío social y que los propios “métodos” (C2) pueden considerarse como un subproducto de las sociedades. De este modo se da una explicación (sincrónica y diacrónica) a la pluralidad de métodos, al tipo de investigaciones más difundidas y, de forma derivada, a los criterios (cambiantes) mediante los cuales se considera que es conocimiento científico en cada sociedad.
+La anterior distinción es pertinente por lo siguiente. En cierto sentido, la (parcial) visión de la ciencia como método, que es la habitual en las asignaturas metodológicas, conlleva a que estas sean vistas como el estudio de las reglas del a)usual y/o b)buen proceder en la investigación científica. La primera tiene un fuerte componente descriptivo mientras que el segundo lo matiza con cuestiones normativas. 
+De modo dominante, aunque no necesario, la focalización en el estudio de reglas suele derivar en interpretaciones idealistas de una disciplina (Bunge, 1981: Cap. 9) (Bunge, 1998: Cap. 5). Aún cuando lo anterior sea (parcialmente) útil para caracterizar y explicar/justificar la emergencia y difusión de las reglas, esto no implica que, traducido a un contexto pedagógico, leer y escribir sean la mejor forma de lograr los objetivos de la asignatura. De modo complementario, que la lectura y escritura sean consideradas como habilidades genéricas y básicas en el mundo universitario (Carlino, 2005), así también como hitos fundamentales dentro de la historia de la evolución de la especie humana (Wolf, 2008), no implica que estas sean la estrategia primordial a la hora lograr el desarrollo de otras competencias, aunque ciertamente, difícilmente se llegue lejos sin ellas.
+En este sentido, se proponen las siguientes definiciones (D) y supuestos (SP) más generales:
+* D1. El término regla puede ser entendido en sentido amplio como una disposición a hacer “y” en circunstancias “x” (Hodgson & Knudsen, 2010, p. 239)
+* SP1. La ejecución de reglas implica prácticas (concretas) de individuos (Bunge, 2007, p. 395).
+* D2. Un hábito (incluídos los de pensamiento) puede ser entendido como una disposición para ser atraído por una comportamiento anteriormente adquirido que es desencadenado por un estímulo contexto o estímulo apropiado (Hodgson & Knudsen, 2010, p. 239). Complementariamente puede considerarse como un tipo especial de regla que sólo cuando se ejecuta implica alguna práctica.
+* D3. Una técnica empírica puede entenderse con un saber cómo. Una técnica científica científica puede entenderse como un saber cómo sostenido en un saber porqué (Fisher, 2018, p. 54). En este sentido, puede afirmarse que una técnica científica implica un conjunto de habilidades (saber cómo) y conocimientos (saber porqué) que sirven para resolver problemas prácticos (Quintanilla, 1998, pp. 50). 
+* SP2. Las técnicas implican práctica no sólo para su ejecución sino también para su perfección (Kandel, 2007, pp. 244).
+* D4. Una competencia es un tipo especial de técnica, en donde su práctica implica de manera crítica, habilidades emocionales y sociales, que permiten resolver (esto es, decidir y/o ejecutar) problemas prácticos en situación (Goleman, 1998, p. 19). En aquellas actividades en donde las habilidades emocionales y sociales no se consideran necesarias la diferencia específica entre técnica (género) y competencias (especie) se vuelve superflua.[2]
+Si se aceptan las definiciones y supuestos generales anteriores, se pueden aceptar los siguientes supuestos pedagógicos más específicos:
+* SP3. El aprendizaje de técnicas, y especialmente de competencias, necesariamente debe complementar las estrategias pedagógicas basadas principalmente en la lectura de textos con estrategias que impliquen prácticas (Kahneman, 2011, Capítulo 22).
+* SP4. Las técnicas, en general, pueden aprenderse razonablemente bien in vitro, esto es ejercitando en un ambiente simulado o controlado en donde los factores emocionales y sociales se encuentran razonablemente controlados. En cambio las competencias (un subtipo especial de técnica) requieren necesariamente de un aprendizaje in situ y/o in vivo en donde, de forma complementaria a lo genérico de cualquier técnica, también se realizan ejercicios que impliquen, de manera fundamental, el manejo tanto de aspectos emocionales como sociales.
+* SP5. Los aprendizajes que surgen como productos exclusivos de lecturas y diálogos son sumamente parciales para la adquisición de hábitos y habilidades y excesivamente endeble en el tiempo para la necesaria consolidación y posterior evocación. Esto último también corre para el caso de las memorias explícitas como a) los conocimientos científicos generales (memoria semántica) y b) la información particular (memoria episódica) (Sigman M, 2015, Capítulo 5)
+* SP6. Por lo anterior, para el aprendizaje de hábitos y  técnicas (y especialmente en el caso de las competencias) los conocimientos son tan necesarios como (in)suficientes. Es un supuesto fuerte de esta asignatura que mutatis mutandi lo mismo sucede con la internacionalización de (algunas de) las reglas y técnicas del método científico. 
+El largo preámbulo anterior parece pertinente para distinguir y seleccionar el modo en que se propone la cursada de la asignatura. En este sentido, ahora se prosigue con otra serie de supuestos, que, al relacionar determinados tipos de actividades didácticas (AD) con determinados tipos de aprendizaje aconsejan las primeras para conseguir los segundos. 
+* SP7. Las actividades que implican una mayor actividad emocional y/o una interacción social durante su ejecución suelen producir un mayor atención (LeDoux, 2015), lo que a posteriori y a igualdad de otras condiciones, favorece tanto la codificación inicial como la posterior recuperación (McCrudden & McNamara, 2018, Chapter 2). Esta será la racionalidad de las actividades que intenten aproximarse a un proceso de investigación real en donde los estudiantes deban tomar decisiones en situación como los trabajos prácticos grupales con salidas a campo
+* SP8. Los exámenes presenciales, en parte por el (usual) contenido emocional (negativo) de SP7, reducen a mediano y largo plazo la motivación intrínseca de los estudiantes (Ryan & Deci, 2017). Esto se debe a que las actividades que: a) los agentes consideren importantes para ellos (como la aprobación de la materia) y que b) se encuentra concentrada en momentos puntuales y con c) una gran indeterminación por el resultado final, suelen producir ansiedad. Esto último produce una asociación emotiva negativa con todo el espectro de las otras memorias (semánticas, episódicas, espaciales, etc.) implicadas en el nuevo aprendizaje que se evalúa (LeDoux, 2015). 
+* SP9. La lectura, en comparación con la escucha (especialmente la presencial), al insumir una menor porción de la memoria de trabajo sólo para recordar las palabras, deja una mayor porción de la misma para captar el significado “global” de lo expresado (Dehaene, 2010). Esta particularidad de la lectura puede maximizarse a través del uso de gráficos organizadores, especialmente para la comprensión de textos de difícil lectura o de textos con presencia de muchos conceptos (McCrudden & McNamara, 2018, p. 102)  Esto facilita la asimilación de conceptos abstractos y las relaciones entre los mismos (Wolf, 2008, Capítulo 3). De este supuesto, se implica que el uso de Índices y Glosarios en formato de hipertexto y cuadros sinópticos favorecen el aprendizaje de memoria semántica abstractas.
+* SP10. La escritura, al requerir, en comparación con la lectura, una mayor atención y un mayor compromiso corporal para su efectiva realización, favorece más la consolidación de la memoria de corto plazo en otra de largo plazo (Sigman, 2015, Capítulo 5).  De modo complementario mientras la escritura sea creativa, y no una simple copia, esta implica una mayor elaboración de lo anteriormente aprendido lo que, a su turno, no sólo favorece la futura disponibilidad sino también la futura accesibilidad (McCrudden & McNamara, 2018, p. 9).
+* SP11. La lectura de la propia escritura (y muchas veces el propio proceso de la escritura), mejora la toma de conciencia de la (anterior) incorrecta asimilación de los conceptos más complejos. 
+* SP12. Cuando la asimilación de los conceptos implique operaciones cognitivas complejas y la experimentación se encuentre fuera de la frontera de lo posible en clase, la simulación puede complementar a la oralidad y a la lectura (Wilensky & Rand, 2015). Esta será la racionalidad para la recomendación en determinadas casos de conceptos muy complejos y/o que tratan sobre poblaciones grandes.
+* SP13. En complementación al SP7, la toma de decisiones en temáticas cercanas a los dominios empíricos que los estudiantes tienen como expectativa de: a) su futuro campo de aplicación y/o b) involucren análisis de datos cercanos actualmente a ellos o a la universidad, suelen producir una mayor una mayor atención en los estudiantes y esta es indispensable para la (posible) consolidación de la memoria explícita (Kandel, 2007, Capítulo 23). Esto se relaciona a) con el dominio empírico de los textos seleccionados o de las preguntas sobre ellos como con b) los análisis de datos y las actividades online que se realizan con sus propios datos y con sus propios compañeros en las aulas informatizadas. La utilidad de estas últimas actividades es que usualmente proporcionan un aprendizaje al tiempo que mejoran la motivación extrínseca sin, en principio, desestimar la intrínseca (Ryan & Deci, 2017).
+* SP14. La visualización de los beneficios de las consecuencias de los hábitos y las técnicas  suele fomentar la motivación extrínseca de los estudiantes (Bowles, 2016). 
+* SP15. En situaciones en donde existe una fuerte presencia de motivación intrínseca, una mayor difusión de argumentos que mejoren la motivaciones extrínsecas puede reducir a las primeras (Bowles, 2016). Esta última afirmación  es más pertinente cuanto más vocacional se considere una carrera. En este sentido, es un supuesto de la coordinación de la asignatura que la carrera de Trabajo Social es una carrera “vocacional”.
+* SP16. La distribución espaciada de las actividades (testing effect), siempre que requieran de algún esfuerzo mental, favorece la consolidación y posterior evocación, básicamente evitando el olvido explícito (Izquierdo, 2008)(Brown, Roediger, & McDaniel, 2014, Capítulo 2). Este supuesto es particularmente importante a la hora de diseñar el cronograma de las actividades.
+* SP17. La graduación en términos de ascendente complejidad de los ejercicios, siempre que en cada nivel se puedan resolver con algún grado de esfuerzo, favorece la performance sin resentir la motivación ya que los estudiantes ni se aburren (con tareas excesivamente simples) ni padecen ansiedad (con tareas excesivamente complejas) (Dobson Yerkes, 1908). Este supuesto es particularmente importante a la hora de diseñar el cronograma de las actividades de un mismo tema de complejidad variable.
+* SP18. La mayor variación de los ejercicios realizados sobre un mismo conocimiento o habilidad, más favorecen la captación de lo esencial y la aplicación de ese aprendizaje a nuevas situaciones no estudiadas (Brown, Roediger, & McDaniel, 2014, pp. 51-53). 
+* SP19. Por último, pero no por eso menos importante, la propia difusión explícita de estos supuestos en clase suele mejorar la metacognición, esto es, el conocimiento de cómo trabaja la mente y la posibilidad de usar ese conocimiento para regular tanto el propio aprendizaje como el propio pensamiento (McCrudden & McNamara, 2018, p. 122)
+§5.2 Actividades didácticas
+La cursada de la materia, se compone de las diferentes tipos de actividades didácticas (AD).  Cada una de estas intentan, desde (algunos de) los diferentes contenidos mínimos (§3) acercarse a (algunos de) los objetivos específicos (§2.1) basado en la creencia de (algunos de) los supuestos pedagógicos (§5.1) anteriormente descritos. 
+Dados los supuestos pedagógicos anteriores, la asignatura se encuentra en un proceso de adecuación de muchos de las actividades (no tanto de los contenidos mínimos) a los supuestos pedagógicos y los objetivos anteriormente detallados. Esto es especialmente notorio en el caso de la exploración y aprovechamientos de las potencialidades de las aulas informatizadas que la asignatura cuenta para el 50% de su carga horaria.
+Aquí, a modo de resumen, sólo se describe los diferentes tipos en forma genérica y se indica entre paréntesis con que objetivos y supuestos se relacionan.[3]
+* AD1. Lectura de textos (sean artículos o secciones de libros), escritos con un propósito metodológico (e idealmente pedagógico) que, a modo de extensos glosarios (más o menos explícitos), ofrecen un léxico común que permite la introducción y justificación de determinados conceptos (SP9). Es un supuesto que la incorporación de aquellos conceptos favorece, como mínimo una distinción y como máxima una mejor descripción y explicación del proceso y de los problemas de la investigación social (OE3 y OE6). De forma subsidiaria, la internalización de un léxico común debería también permitir mejoras en la comunicación, específicamente en lo tocante a la racionalidad de las decisiones de investigaciones, tanto entre estudiantes como entre éstos y el docente y los futuros compañeros de trabajo (OE8). Este tipo de actividades conforman la parte necesariamente explícita del aprendizaje de reglas (SP9).
+* AD2. Lectura de textos, usualmente fragmentos de papers o artículos científicos, que, a modo de (muy variados) casos ejemplares y relacionados con el mundo del trabajo social, muestran una aplicación de determinado diseño y/o técnica de investigación. Dado lo afirmado en (§5.1) 
+a) si la selección de la temática es pertinente esta logra captar una mayor atención de los estudiantes (SP13a) y 
+b) si la aplicación del diseño o la técnica es relativamente transparente y la variación entre papers lo suficientemente grande, lo anterior permite una mejora en que lo aprendido explícitamente en el aula se pueda aplicar a situaciones extra-áulicas implícitamente desconocidas (SP18) (OE3).
+* AD3.  En complementación a AD1, se propone la lectura de glosarios concisos y cuadros sinópticos, junto con un posterior ejercicio espaciado de los mismos a través de ejercicios online de tarjetas de aprendizajes (Flashcards) y/o encuestas tipo múltiple choice con respuestas automáticas interactivas que propician un rápido feedback (SP9 - SP16) (OE6).
+* AD4. Experiencias áulicas en donde se realizan “puestas en escena” que representan diferentes “juegos” en donde los estudiantes tienen que “actuar” en público siguiendo determinadas reglas (SP7). En este sentido, se realizan representaciones del “juego del ultimátum” y del “juego de la confianza” como ejemplos de diseño experimental (OE1-OE3- OE2-OE8).
+* AD5. Construcción de un simulador online que puede ser ejecutado desde un celular y su uso para facilitar simulaciones en clase para facilitar la enseñanza de los conceptos abstractos (como del Teorema del Límite Central y la Ley de los Grandes Números) que al tratar con poblaciones grandes hace difícil su experimentación. Esta actividad se complementa con la lectura de definiciones y textos metodológicos (SP9-SP12)(OE2-OE6). 
+* AD6 Experiencias áulicas significativas que, apoyadas con instrumentos digitales como la carga y el análisis de los datos online a través de computadoras y celulares, los estudiantes analicen e interpreten datos en donde ellos mismos son las unidades de análisis (SP7-SP13-SP14). En este sentido se incluyen en la cursada varias actividades (espaciadas y variadas entre ellas y con crecientes niveles de complejidad) como la elaboración de diferentes cuestionarios donde ellos responden y luego construyen y analizan (sus propias) matrices de datos  (SP16-SP17-SP18)(OE3-OE4-OE8). 
+* AD7. Se muestran, generalmente con datos producidos en AD6, ejemplos de (otras) técnicas más complejas que por cuestiones de tiempo es difícil de enseñar en clase. Así, se realizan mapas interactivos online, sociogramas y nubes de palabras mostrando las potencialidades de estas técnicas. De forma implícita también se validan las “reglas” estudiadas en AD1 aplicadas a un dominio más amplio de técnicas (SP13b-SP14)(OE1-OE2-OE8).    
+* AD8. Se coordina con el personal de la Biblioteca la realización de una actividad, en las aulas informatizadas, sobre búsqueda bibliográfica y los tipos de citas y referencias. La actividad implica el uso de un pequeño material teórico (SP9) y su posterior ejercicio en las computadoras (SP7)(OE6-OE7). 
+* AD9. Se realiza un gran trabajo práctico grupal integrador (se detalla en &) en donde los estudiantes eligen un tema, plantean objetivos, realizan un diseño de una investigación, construyen sus instrumentos de observación/medición, toman decisiones de muestreo, producen y analizan datos y presentan sus resultados (SP7-SP13)(OE3-OE4-OE6-OE7-OE8). El trabajo práctico constan de varias entregas (y devoluciones del docente) espaciadas y con un creciente grado de complejidad (SP16-SP17).
+Cabe destacar que muchas actividades anteriores se logran aprovechar de un mejor modo gracias al apoyo explícito de la Universidad que permite desarrollar la mitad de la carga horaria de la asignatura en aulas informatizadas con conexión a internet. Esto último es muy importante porque posibilita, para el caso de las actividades que: a) se puedan desarrollar (casi todas) de modo on-line, b) con una mayor independencia tanto de las capacidades de b1)hardware y, principalmente, del b2) software de las computadoras. 
+Esta independencia evita la dependencia de la efectiva instalación (y/o compra) de los diferentes programas en cada computadora. Para acrecentar aún más los beneficios anteriores, la coordinación de la asignatura ofrece todas sus actividades en plataformas que, o bien son de código abierto (wordpress, r, carto, etc.) o son de acceso libre (google drive) y que, en su mayoría, son construidas en formato responsive, esto es, adaptables a distintos dispositivos como computadoras, tablets y celulares.
+Por otro lado, toda la bibliografía de la asignatura se encuentra disponible on-line y trabajada con tecnología OCR (Optical Character Recognition). Esto permite que pueda ser escuchada, mediante aplicaciones gratuitas que se pueden instalar en cualquier celular, tanto por personas con dislexia avanzada o por personas con problemas de visión o por cualquier estudiante que prefiera, por distintas razones particulares, o bien escuchar antes que leer o bien complementar la lectura con una audición de los textos en ambientes en donde puede escuchar pero no ver, como por ejemplo, en un viaje tanto de transporte público parado o manejando un auto.
+§6. Régimen de evaluación y aprobación:
+§6.1 El sistema de evaluación
+El sistema de evaluación de la asignatura, al igual que las actividades didácticas (§5.2), se encuentra fuertemente influenciado tanto por los objetivos específicos de la materia (§2.1), los contenidos mínimos (§3) como los supuestos pedagógicos (§5.2). Una diferencia importante es que aquí también se tienen en cuenta las especificidades del reglamento académico de la Universidad.
+En este sentido, el sistema de evaluación consta de 3 partes: Un parcial domiciliario individual (§6.1.1), un trabajo práctico integrador grupal (§6.1.2) y una serie de actividades individuales de ejercitación (§6.1.3).
+§6.1.1  Parcial Domiciliario Individual
+Se trata de un parcial domiciliario que incluye e integra los contenidos de las unidades 1, 2 y 3 en donde, principalmente mediante la contextualización de casos imaginarios, los estudiantes deben realizar decisiones de investigación como fundamentarlas por escrito (OE3-OE6). En este sentido, dado el caso imaginario propuesto por el docente, los estudiantes deben elegir y justificar el tipo de diseño, explicitar el objetivo, qué variables van a analizar y el modo mediante el cual seleccionarán sus unidades de análisis.
+Este parcial tiene una nota de 1 a 10 y tiene una ponderación de 0.4 en el promedio final. Se puede recuperar al menos 1 vez. 
+§6.1.2 Trabajo práctico integrador grupal
+Este trabajo, del cual algo se comentó en AD9, implica que desde el segundo día de la cursada se conforman 4 grupos cuyos integrantes se seleccionan por sorteo. A lo largo de la cursada deberán ir entregando avances sobre los siguientes temas:
+a) Diseño de la investigación que incluya la delimitación de un tema elegido por los mismos estudiantes y selección de/los marco/s teórico/s.
+b) Explicitación de los objetivos y selección de un diseño de investigación idóneo.
+c) Operacionalización de/los concepto/s principal/es y construcción de los respectivos instrumentos de observación y/o medición. 
+c) Dado el diseño escogido y a las capacidades reales de los estudiantes de una materia de metodología, la confección de un diseño muestral.
+d) Análisis de los datos producidos por la salida a campo.
+La entrega final de este trabajo se entrega primero por escrito y luego de una corrección inicial del docente se realiza una defensa oral grupal del trabajo frente al resto del curso (SP7)(OE7-OE8). En caso de no aprobar la entrega escrita, la defensa oral se considera como un recuperatorio de aquella. El docente, a pesar de ser un trabajo principalmente grupal, puede asignar diferentes notas a cada estudiante en función del esfuerzo percibido y los propios comentarios de los compañeros del grupo.[4]
+Este trabajo tiene una nota de 1 a 10 y tiene una ponderación de 0.6 en el promedio final.
+Un supuesto importante de cualquiera de estas evaluaciones, más allá de sus méritos pedagógicos para asimilar conocimientos y/o habilidades, es la prevención de asociaciones emocionalmente negativas con el aprendizaje realizado (SP8-SP15).
+
+
+§6.1.3 Actividades de ejercitación online
+La materia se encuentra en un proceso de desarrollo de una serie de actividades online en donde los estudiantes, previa identificación, deberán realizar varios ejercicios de preguntas y respuestas. Los ejercicios son en formato interactivo y consisten en muchas preguntas del tipo multiple choice, en donde los estudiantes deberán responder sobre:
+a) preguntas de comprensión sobre párrafos específicos de algunos textos de la cursada, b) distinguir variables en hipótesis escritas en prosa, c) clasificar diseños de investigación de casos imaginarios d) realizar análisis de cuadros y gráficos e) completar cuadros sinópticos, etc (Brown et al., 2014).
+Por el modo de construcción (y de evaluación) de estos ejercicios los estudiantes en el momento sabrán el resultado de sus respuestas y obtienen una devolución personalizada que se genera automáticamente en función de sus propias respuestas. Que la evaluación sea sin nota promediable y de rápida ejecución reduce la motivación por la copia al tiempo que aspira a fomentar fomenta la motivación intrínseca (SP8). Que la devolución sea casi instantánea favorece el proceso de retroalimentación y ajuste cognitivo y esto la consolidación del aprendizaje (Brown, et. al., 2014).
+Esta actividad se evalúa con una nota discreta del tipo “realizado” o “no realizado”. La única condición para aprobar es haber completado, dentro de las fechas estipuladas, todas las preguntas. Dado que no hay nota promediable esta actividad evaluatoria no se recupera, o si se prefiere, se puede recuperar hasta el momento en que se cierra el tiempo estipulado para ser realizada.
+§6.2 Sistema de aprobación
+
+
+Como lo detalla el reglamento académico de la UNAJ (artículo 38, inciso a), existe posibilidad de recuperar cualquier instancia en la que el estudiante haya obtenido menos de 7. Si bien la nota de los recuperatorios tiene un rango de 1 a 10 (para favorecer la retroalimentación del estudiante), finalmente cuando esta se promedia con el resto de las notas, la nota máxima de una instancia que ha sido recuperada tendrá un tope de 7 (para reducir el comportamiento estratégico de los estudiantes). Como también lo detalla el mismo artículo del reglamento académico para promocionar la asignatura en ninguna instancia se puede tener una nota menor a 6.
+§7. Bibliografía Citada en este documento:
+BOWLES, S. (2016) Moral Economy. New Haven and London, Yale University Press.
+BROWN, P.; H. ROEDIGER y M. MCDANIEL (2014) Make it stick. Cambridge, The Belknap Press.
+BUNGE, M. (1981) Materialismo y ciencia. Barcelona, Ariel.
+_____ (1998) Las ciencias sociales en discusión: una perspectiva filosófica. Buenos Aires, Ed. Sudamericana.
+_____ (2007) Buscar la filosofía en las ciencias sociales. México, Siglo XXI.
+CARLINO, P. (2005) Escribir, leer, y aprender en la universidad. Una introducción a la alfabetización académica. Buenos Aires, Fondo de Cultura Económica.
+DEHAENE, S. (2010) Reading in the brain. New York, Penguin books.
+DEWEY, J. (1922) Human Nature and Conduct. New York, Henry Holt and Company.
+FISHER, J. (2018) "Filosofìa de la biología y de la técnica". En Año 8, N° 2,
+GOLEMAN, D. (1998) Working with emotional intelligence. New York, Bantam Books.
+HODGSON, G. (2004) "Reclaiming habit for institutional economics". En Journal of Economic Psychology. Año 25, , Págs. 651-660.
+HODGSON, G. y T. KNUDSEN (2010) Darwin’s conjecture. The search for general principles of social and economic evolution. Chicago and London, The University of Chicago Press.
+IZQUIERDO, I. (2008) El arte de olvidar. Buenos Aires, Edhasa.
+JAMES, W. (1892) Psychology. Briefer Course. New York, Henry Holt and Company.
+KAHNEMAN, D. (2011) Thinking, fast and slow. New York, Penguin books.
+KANDEL, E. (2007) En busca de la memoria. El nacimiento de una nueva ciencia de la mente. Buenos Aires, Katz editores.
+KISH, L. (1995) Diseño estadístico para la investigación. Madrid, Centro de Investigaciones Sociológicas.
+LE DEIST, F. D. y J. WINTERTON (2005) "What is competence?". En Human Resource Development International. Año 8, N° 1, marzo. Págs. 27-46.
+LEDOUX, J. (2015) Anxious. New York, Penguin books.
+MCCRUDDEN, M. y D. MCNAMARA (2018) Cognition in Education. New York, Routledge.
+QUINTANILLA, M. Á. (1998) "Técnica y Cultura". En Teorema. Año XVII, N° 3, Págs. 49-69.
+RYAN, R. y E. DECI (2017) Self determination theory. Basic Psychological needs in motivation, development and wellness. New York, Guilford Press.
+SIGMAN, M. (2015) La vida secreta de la mente. Buenos Aires, Penguin Random House.
+SQUIRE, L. R. y A. J. O. DEDE (2015) "Conscious and unconscious memory systems". En Cold Spring Harbor Perspectives in Biology. Año 7, N° 3, marzo. Págs. a021667.
+WILENSKY, U. y W. RAND (2015) An introduction to Agent Based Modeling: Modeling natural, social and engineered complex systems with netlogo. Cambridge, MIT Press.
+WILLINGHAM, D. (2009) Why don´t students like school? San Francisco, Jossey-Bass.
+WOLF, M. (2008) Como aprendemos a leer: historia y ciencia del cerebro y la lectura. Traducido por MARTIN RODRIGUEZ-COUREL GINZO. Barcelona, EDB NO FICCION.
+YERKES, R. y J. DODSON (1908) "The relation of strenght of stimulus to rapidity of habit formation". En Journal of Comparative Neurology and Psychology. Año 18, , Págs. 459-482.
+
+
+
+
+________________
+[1] Más adelante se explicitan tanto las diferencias entre un hábito, un conocimiento, etc. (§5.1) como que tipo de actividades didácticas favorece cada uno de ellos (§5.2).
+[2] Para definiciones clásicas de hábito (habit) puede consultarse (James, 1892, Capítulo 10)(Dewey, 1922, p. 42) (Hodgson, 2004)(LeDoux, 2015, p. 64). Para el caso de las habilidades (skill) puede consultarse (Le Deist & Winterton, 2005). Para el caso más específico de las competencias (competence o expertise) puede consultarse (Goleman, 1998, p. 19). Para justificaciones de la distinción entre memorias implícitas (hábitos, memoria procedimental, etc.) y memoria explícita (semántica y episódica) puede consultarse (Kandel, 2007, Capítulo 8) (Squire & Dede, 2015) (LeDoux, 2015, p. 190).
+[3] Para más información sobre alguna de las actividades específicas puede consultarse: https://diegoteca.com.ar/metodocuanti/ejercicios-practicos/.
+Para más información acerca del orden temporal de las actividades y una breve justificación de la misma puede consultarse el cronograma de la asignatura.
+[4] Para más detalles del trabajo práctico integrador puede consultarse el siguiente link.
